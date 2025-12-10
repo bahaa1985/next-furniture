@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Dashboard() {
   const CLOUD_NAME = "dppcnl8qh";
   const UPLOAD_PRESET = "auto_upload";
-  const SCRIPT_URL = "YOUR_GOOGLE_SCRIPT_WEBAPP_URL";
+  const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwEJ8SD8qsBA2BuAw6BHbCs_QcVgxS0ZE8zclzQfO-zThe0yXjOH_A8DknuxtNQHRcYBA/exec";
 
    type ImageItem = {
     id: string;
